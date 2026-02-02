@@ -59,10 +59,10 @@ export function LoginPage() {
           {/* Welcome — centered at top of form area */}
           <div className="mb-8 text-center md:text-left">
             <h1 className="text-2xl font-bold tracking-tight text-foreground sm:text-3xl">
-              Welcome Back to Insaf Housing!
+              Welcome back to Insaf Housing
             </h1>
             <p className="mt-2 text-sm text-muted-foreground sm:text-base">
-              Sign in to your account.
+              Sign in to your account to continue.
             </p>
           </div>
 
